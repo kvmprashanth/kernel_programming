@@ -1,0 +1,572 @@
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415786] Part-3: -----------------------INSERTED-------------------------
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415796] FOR CURRENT REGION,
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415796] 	Present in RAM (RSS): 0 (0 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415796] 	Not Present in RAM  : 0 (0 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415796] 	Not Mapped          : 2147483648 (8589934592 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415796] 	Total Pages         : 2147483648 (8589934592 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415796] 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415808] PHYSICAL PAGES IN DIRECT MAPPED REGION: 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415812] Physical page exists at PA:0000000000001000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415816] Physical page exists at PA:0000000000002000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415819] Physical page exists at PA:0000000000003000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415823] Physical page exists at PA:0000000000004000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415827] Physical page exists at PA:0000000000005000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415830] Physical page exists at PA:0000000000006000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415834] Physical page exists at PA:0000000000007000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415837] Physical page exists at PA:0000000000008000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415841] Physical page exists at PA:0000000000009000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415844] Physical page exists at PA:000000000000a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415847] Physical page exists at PA:000000000000b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415851] Physical page exists at PA:000000000000c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415855] Physical page exists at PA:000000000000d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415858] Physical page exists at PA:000000000000e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415862] Physical page exists at PA:000000000000f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415865] Physical page exists at PA:0000000000010000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415869] Physical page exists at PA:0000000000011000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415882] Physical page exists at PA:0000000000012000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415886] Physical page exists at PA:0000000000013000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415889] Physical page exists at PA:0000000000014000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415893] Physical page exists at PA:0000000000015000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415903] Physical page exists at PA:0000000000016000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415968] Physical page exists at PA:0000000000017000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415972] Physical page exists at PA:0000000000018000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415975] Physical page exists at PA:0000000000019000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415978] Physical page exists at PA:000000000001a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415982] Physical page exists at PA:000000000001b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415985] Physical page exists at PA:000000000001c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415988] Physical page exists at PA:000000000001d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415991] Physical page exists at PA:000000000001e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415995] Physical page exists at PA:000000000001f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.415998] Physical page exists at PA:0000000000020000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416002] Physical page exists at PA:0000000000021000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416006] Physical page exists at PA:0000000000022000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416009] Physical page exists at PA:0000000000023000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416012] Physical page exists at PA:0000000000024000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416015] Physical page exists at PA:0000000000025000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416018] Physical page exists at PA:0000000000026000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416021] Physical page exists at PA:0000000000027000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416023] Physical page exists at PA:0000000000028000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416026] Physical page exists at PA:0000000000029000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416029] Physical page exists at PA:000000000002a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416032] Physical page exists at PA:000000000002b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416035] Physical page exists at PA:000000000002c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416038] Physical page exists at PA:000000000002d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416042] Physical page exists at PA:000000000002e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416045] Physical page exists at PA:000000000002f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416048] Physical page exists at PA:0000000000030000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416052] Physical page exists at PA:0000000000031000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416055] Physical page exists at PA:0000000000032000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416058] Physical page exists at PA:0000000000033000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416062] Physical page exists at PA:0000000000034000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416065] Physical page exists at PA:0000000000035000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416068] Physical page exists at PA:0000000000036000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416072] Physical page exists at PA:0000000000037000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416075] Physical page exists at PA:0000000000038000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416078] Physical page exists at PA:0000000000039000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416082] Physical page exists at PA:000000000003a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416086] Physical page exists at PA:000000000003b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416089] Physical page exists at PA:000000000003c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416092] Physical page exists at PA:000000000003d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416096] Physical page exists at PA:000000000003e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416099] Physical page exists at PA:000000000003f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416103] Physical page exists at PA:0000000000040000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416107] Physical page exists at PA:0000000000041000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416111] Physical page exists at PA:0000000000042000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416114] Physical page exists at PA:0000000000043000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416118] Physical page exists at PA:0000000000044000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416122] Physical page exists at PA:0000000000045000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416125] Physical page exists at PA:0000000000046000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416128] Physical page exists at PA:0000000000047000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416132] Physical page exists at PA:0000000000048000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416135] Physical page exists at PA:0000000000049000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416138] Physical page exists at PA:000000000004a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416141] Physical page exists at PA:000000000004b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416145] Physical page exists at PA:000000000004c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416147] Physical page exists at PA:000000000004d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416150] Physical page exists at PA:000000000004e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416153] Physical page exists at PA:000000000004f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416156] Physical page exists at PA:0000000000050000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416159] Physical page exists at PA:0000000000051000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416162] Physical page exists at PA:0000000000052000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416166] Physical page exists at PA:0000000000053000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416169] Physical page exists at PA:0000000000054000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416172] Physical page exists at PA:0000000000055000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416175] Physical page exists at PA:0000000000056000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416179] Physical page exists at PA:0000000000057000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416182] Physical page exists at PA:0000000000058000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416186] Physical page exists at PA:0000000000059000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416189] Physical page exists at PA:000000000005a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416192] Physical page exists at PA:000000000005b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416195] Physical page exists at PA:000000000005c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416198] Physical page exists at PA:000000000005d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416201] Physical page exists at PA:000000000005e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416205] Physical page exists at PA:000000000005f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416207] Physical page exists at PA:0000000000060000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416210] Physical page exists at PA:0000000000061000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416214] Physical page exists at PA:0000000000062000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416217] Physical page exists at PA:0000000000063000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416220] Physical page exists at PA:0000000000064000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416223] Physical page exists at PA:0000000000065000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416226] Physical page exists at PA:0000000000066000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416230] Physical page exists at PA:0000000000067000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416233] Physical page exists at PA:0000000000068000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416236] Physical page exists at PA:0000000000069000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416239] Physical page exists at PA:000000000006a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416243] Physical page exists at PA:000000000006b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416247] Physical page exists at PA:000000000006c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416250] Physical page exists at PA:000000000006d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416254] Physical page exists at PA:000000000006e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416257] Physical page exists at PA:000000000006f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416260] Physical page exists at PA:0000000000070000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416263] Physical page exists at PA:0000000000071000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416266] Physical page exists at PA:0000000000072000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416269] Physical page exists at PA:0000000000073000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416272] Physical page exists at PA:0000000000074000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416276] Physical page exists at PA:0000000000075000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416279] Physical page exists at PA:0000000000076000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416282] Physical page exists at PA:0000000000077000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416285] Physical page exists at PA:0000000000078000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416288] Physical page exists at PA:0000000000079000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416292] Physical page exists at PA:000000000007a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416295] Physical page exists at PA:000000000007b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416298] Physical page exists at PA:000000000007c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416301] Physical page exists at PA:000000000007d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416304] Physical page exists at PA:000000000007e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416307] Physical page exists at PA:000000000007f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416311] Physical page exists at PA:0000000000080000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416314] Physical page exists at PA:0000000000081000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416318] Physical page exists at PA:0000000000082000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416322] Physical page exists at PA:0000000000083000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416325] Physical page exists at PA:0000000000084000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416328] Physical page exists at PA:0000000000085000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416332] Physical page exists at PA:0000000000086000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416335] Physical page exists at PA:0000000000087000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416339] Physical page exists at PA:0000000000088000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416342] Physical page exists at PA:0000000000089000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416345] Physical page exists at PA:000000000008a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416348] Physical page exists at PA:000000000008b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416352] Physical page exists at PA:000000000008c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416356] Physical page exists at PA:000000000008d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416359] Physical page exists at PA:000000000008e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416363] Physical page exists at PA:000000000008f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416367] Physical page exists at PA:0000000000090000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416371] Physical page exists at PA:0000000000091000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416375] Physical page exists at PA:0000000000092000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416378] Physical page exists at PA:0000000000093000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416382] Physical page exists at PA:0000000000094000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416386] Physical page exists at PA:0000000000095000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416390] Physical page exists at PA:0000000000096000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416393] Physical page exists at PA:0000000000097000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416397] Physical page exists at PA:0000000000098000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416401] Physical page exists at PA:0000000000099000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416405] Physical page exists at PA:000000000009a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416408] Physical page exists at PA:000000000009b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416421] Physical page exists at PA:000000000009c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416425] Physical page exists at PA:000000000009d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416428] Physical page exists at PA:000000000009e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416432] Physical page exists at PA:000000000009f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416436] Physical page exists at PA:00000000000a0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416440] Physical page exists at PA:00000000000a1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416444] Physical page exists at PA:00000000000a2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416447] Physical page exists at PA:00000000000a3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416451] Physical page exists at PA:00000000000a4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416455] Physical page exists at PA:00000000000a5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416459] Physical page exists at PA:00000000000a6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416462] Physical page exists at PA:00000000000a7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416466] Physical page exists at PA:00000000000a8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416470] Physical page exists at PA:00000000000a9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416474] Physical page exists at PA:00000000000aa000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416477] Physical page exists at PA:00000000000ab000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416481] Physical page exists at PA:00000000000ac000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416485] Physical page exists at PA:00000000000ad000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416489] Physical page exists at PA:00000000000ae000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416492] Physical page exists at PA:00000000000af000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416496] Physical page exists at PA:00000000000b0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416500] Physical page exists at PA:00000000000b1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416503] Physical page exists at PA:00000000000b2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416507] Physical page exists at PA:00000000000b3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416511] Physical page exists at PA:00000000000b4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416514] Physical page exists at PA:00000000000b5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416518] Physical page exists at PA:00000000000b6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416521] Physical page exists at PA:00000000000b7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416525] Physical page exists at PA:00000000000b8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416529] Physical page exists at PA:00000000000b9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416532] Physical page exists at PA:00000000000ba000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416536] Physical page exists at PA:00000000000bb000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416540] Physical page exists at PA:00000000000bc000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416544] Physical page exists at PA:00000000000bd000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416548] Physical page exists at PA:00000000000be000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416551] Physical page exists at PA:00000000000bf000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416555] Physical page exists at PA:00000000000c0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416559] Physical page exists at PA:00000000000c1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416563] Physical page exists at PA:00000000000c2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416566] Physical page exists at PA:00000000000c3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416570] Physical page exists at PA:00000000000c4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416573] Physical page exists at PA:00000000000c5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416577] Physical page exists at PA:00000000000c6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416580] Physical page exists at PA:00000000000c7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416584] Physical page exists at PA:00000000000c8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416588] Physical page exists at PA:00000000000c9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416591] Physical page exists at PA:00000000000ca000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416595] Physical page exists at PA:00000000000cb000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416599] Physical page exists at PA:00000000000cc000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416602] Physical page exists at PA:00000000000cd000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416606] Physical page exists at PA:00000000000ce000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416610] Physical page exists at PA:00000000000cf000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416613] Physical page exists at PA:00000000000d0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416616] Physical page exists at PA:00000000000d1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416619] Physical page exists at PA:00000000000d2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416622] Physical page exists at PA:00000000000d3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416626] Physical page exists at PA:00000000000d4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416629] Physical page exists at PA:00000000000d5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416632] Physical page exists at PA:00000000000d6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416635] Physical page exists at PA:00000000000d7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416639] Physical page exists at PA:00000000000d8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416642] Physical page exists at PA:00000000000d9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416645] Physical page exists at PA:00000000000da000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416649] Physical page exists at PA:00000000000db000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416652] Physical page exists at PA:00000000000dc000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416654] Physical page exists at PA:00000000000dd000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416658] Physical page exists at PA:00000000000de000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416661] Physical page exists at PA:00000000000df000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416664] Physical page exists at PA:00000000000e0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416667] Physical page exists at PA:00000000000e1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416670] Physical page exists at PA:00000000000e2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416673] Physical page exists at PA:00000000000e3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416677] Physical page exists at PA:00000000000e4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416681] Physical page exists at PA:00000000000e5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416684] Physical page exists at PA:00000000000e6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416716] Physical page exists at PA:00000000000e7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416720] Physical page exists at PA:00000000000e8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416723] Physical page exists at PA:00000000000e9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416727] Physical page exists at PA:00000000000ea000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416731] Physical page exists at PA:00000000000eb000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416735] Physical page exists at PA:00000000000ec000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416738] Physical page exists at PA:00000000000ed000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416742] Physical page exists at PA:00000000000ee000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416745] Physical page exists at PA:00000000000ef000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416749] Physical page exists at PA:00000000000f0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416753] Physical page exists at PA:00000000000f1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416757] Physical page exists at PA:00000000000f2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416761] Physical page exists at PA:00000000000f3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416764] Physical page exists at PA:00000000000f4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416768] Physical page exists at PA:00000000000f5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416771] Physical page exists at PA:00000000000f6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416774] Physical page exists at PA:00000000000f7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416777] Physical page exists at PA:00000000000f8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416781] Physical page exists at PA:00000000000f9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416784] Physical page exists at PA:00000000000fa000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416787] Physical page exists at PA:00000000000fb000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416790] Physical page exists at PA:00000000000fc000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416793] Physical page exists at PA:00000000000fd000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416797] Physical page exists at PA:00000000000fe000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416800] Physical page exists at PA:00000000000ff000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416803] Physical page exists at PA:0000000000100000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416807] Physical page exists at PA:0000000000101000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416810] Physical page exists at PA:0000000000102000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416813] Physical page exists at PA:0000000000103000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416816] Physical page exists at PA:0000000000104000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416819] Physical page exists at PA:0000000000105000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416823] Physical page exists at PA:0000000000106000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416826] Physical page exists at PA:0000000000107000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416829] Physical page exists at PA:0000000000108000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416832] Physical page exists at PA:0000000000109000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416836] Physical page exists at PA:000000000010a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416839] Physical page exists at PA:000000000010b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416842] Physical page exists at PA:000000000010c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416845] Physical page exists at PA:000000000010d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416849] Physical page exists at PA:000000000010e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416852] Physical page exists at PA:000000000010f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416856] Physical page exists at PA:0000000000110000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416859] Physical page exists at PA:0000000000111000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416862] Physical page exists at PA:0000000000112000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416865] Physical page exists at PA:0000000000113000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416869] Physical page exists at PA:0000000000114000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416872] Physical page exists at PA:0000000000115000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416875] Physical page exists at PA:0000000000116000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416878] Physical page exists at PA:0000000000117000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416882] Physical page exists at PA:0000000000118000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416885] Physical page exists at PA:0000000000119000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416888] Physical page exists at PA:000000000011a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416891] Physical page exists at PA:000000000011b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416895] Physical page exists at PA:000000000011c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416899] Physical page exists at PA:000000000011d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416902] Physical page exists at PA:000000000011e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416905] Physical page exists at PA:000000000011f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416908] Physical page exists at PA:0000000000120000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416911] Physical page exists at PA:0000000000121000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416915] Physical page exists at PA:0000000000122000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416918] Physical page exists at PA:0000000000123000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416922] Physical page exists at PA:0000000000124000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416925] Physical page exists at PA:0000000000125000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416929] Physical page exists at PA:0000000000126000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416940] Physical page exists at PA:0000000000127000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416945] Physical page exists at PA:0000000000128000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416948] Physical page exists at PA:0000000000129000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416951] Physical page exists at PA:000000000012a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416955] Physical page exists at PA:000000000012b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416958] Physical page exists at PA:000000000012c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416962] Physical page exists at PA:000000000012d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416965] Physical page exists at PA:000000000012e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416969] Physical page exists at PA:000000000012f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416973] Physical page exists at PA:0000000000130000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416976] Physical page exists at PA:0000000000131000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416980] Physical page exists at PA:0000000000132000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416983] Physical page exists at PA:0000000000133000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416987] Physical page exists at PA:0000000000134000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416990] Physical page exists at PA:0000000000135000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416994] Physical page exists at PA:0000000000136000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.416997] Physical page exists at PA:0000000000137000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417000] Physical page exists at PA:0000000000138000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417004] Physical page exists at PA:0000000000139000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417007] Physical page exists at PA:000000000013a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417010] Physical page exists at PA:000000000013b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417013] Physical page exists at PA:000000000013c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417016] Physical page exists at PA:000000000013d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417020] Physical page exists at PA:000000000013e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417023] Physical page exists at PA:000000000013f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417027] Physical page exists at PA:0000000000140000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417031] Physical page exists at PA:0000000000141000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417034] Physical page exists at PA:0000000000142000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417037] Physical page exists at PA:0000000000143000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417040] Physical page exists at PA:0000000000144000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417043] Physical page exists at PA:0000000000145000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417047] Physical page exists at PA:0000000000146000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417050] Physical page exists at PA:0000000000147000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417053] Physical page exists at PA:0000000000148000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417056] Physical page exists at PA:0000000000149000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417060] Physical page exists at PA:000000000014a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417064] Physical page exists at PA:000000000014b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417067] Physical page exists at PA:000000000014c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417070] Physical page exists at PA:000000000014d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417073] Physical page exists at PA:000000000014e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417076] Physical page exists at PA:000000000014f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417079] Physical page exists at PA:0000000000150000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417083] Physical page exists at PA:0000000000151000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417086] Physical page exists at PA:0000000000152000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417089] Physical page exists at PA:0000000000153000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417092] Physical page exists at PA:0000000000154000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417095] Physical page exists at PA:0000000000155000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417098] Physical page exists at PA:0000000000156000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417101] Physical page exists at PA:0000000000157000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417105] Physical page exists at PA:0000000000158000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417108] Physical page exists at PA:0000000000159000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417111] Physical page exists at PA:000000000015a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417114] Physical page exists at PA:000000000015b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417117] Physical page exists at PA:000000000015c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417121] Physical page exists at PA:000000000015d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417124] Physical page exists at PA:000000000015e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417128] Physical page exists at PA:000000000015f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417131] Physical page exists at PA:0000000000160000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417134] Physical page exists at PA:0000000000161000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417138] Physical page exists at PA:0000000000162000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417142] Physical page exists at PA:0000000000163000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417146] Physical page exists at PA:0000000000164000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417149] Physical page exists at PA:0000000000165000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417153] Physical page exists at PA:0000000000166000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417156] Physical page exists at PA:0000000000167000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417160] Physical page exists at PA:0000000000168000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417163] Physical page exists at PA:0000000000169000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417166] Physical page exists at PA:000000000016a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417169] Physical page exists at PA:000000000016b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417172] Physical page exists at PA:000000000016c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417175] Physical page exists at PA:000000000016d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417178] Physical page exists at PA:000000000016e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417182] Physical page exists at PA:000000000016f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417185] Physical page exists at PA:0000000000170000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417188] Physical page exists at PA:0000000000171000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417191] Physical page exists at PA:0000000000172000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417194] Physical page exists at PA:0000000000173000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417197] Physical page exists at PA:0000000000174000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417201] Physical page exists at PA:0000000000175000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417204] Physical page exists at PA:0000000000176000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417207] Physical page exists at PA:0000000000177000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417210] Physical page exists at PA:0000000000178000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417214] Physical page exists at PA:0000000000179000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417218] Physical page exists at PA:000000000017a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417221] Physical page exists at PA:000000000017b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417225] Physical page exists at PA:000000000017c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417229] Physical page exists at PA:000000000017d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417232] Physical page exists at PA:000000000017e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417236] Physical page exists at PA:000000000017f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417239] Physical page exists at PA:0000000000180000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417242] Physical page exists at PA:0000000000181000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417246] Physical page exists at PA:0000000000182000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417249] Physical page exists at PA:0000000000183000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417252] Physical page exists at PA:0000000000184000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417255] Physical page exists at PA:0000000000185000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417258] Physical page exists at PA:0000000000186000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417261] Physical page exists at PA:0000000000187000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417265] Physical page exists at PA:0000000000188000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417434] Physical page exists at PA:0000000000189000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417438] Physical page exists at PA:000000000018a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417441] Physical page exists at PA:000000000018b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417444] Physical page exists at PA:000000000018c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417447] Physical page exists at PA:000000000018d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417450] Physical page exists at PA:000000000018e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417454] Physical page exists at PA:000000000018f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417457] Physical page exists at PA:0000000000190000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417461] Physical page exists at PA:0000000000191000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417464] Physical page exists at PA:0000000000192000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417468] Physical page exists at PA:0000000000193000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417471] Physical page exists at PA:0000000000194000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417475] Physical page exists at PA:0000000000195000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417478] Physical page exists at PA:0000000000196000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417481] Physical page exists at PA:0000000000197000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417484] Physical page exists at PA:0000000000198000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417487] Physical page exists at PA:0000000000199000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417491] Physical page exists at PA:000000000019a000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417502] Physical page exists at PA:000000000019b000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417505] Physical page exists at PA:000000000019c000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417508] Physical page exists at PA:000000000019d000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417511] Physical page exists at PA:000000000019e000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417514] Physical page exists at PA:000000000019f000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417517] Physical page exists at PA:00000000001a0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417520] Physical page exists at PA:00000000001a1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417524] Physical page exists at PA:00000000001a2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417527] Physical page exists at PA:00000000001a3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417530] Physical page exists at PA:00000000001a4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417533] Physical page exists at PA:00000000001a5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417537] Physical page exists at PA:00000000001a6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417541] Physical page exists at PA:00000000001a7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417544] Physical page exists at PA:00000000001a8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417548] Physical page exists at PA:00000000001a9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417552] Physical page exists at PA:00000000001aa000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417556] Physical page exists at PA:00000000001ab000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417559] Physical page exists at PA:00000000001ac000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417562] Physical page exists at PA:00000000001ad000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417565] Physical page exists at PA:00000000001ae000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417568] Physical page exists at PA:00000000001af000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417571] Physical page exists at PA:00000000001b0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417574] Physical page exists at PA:00000000001b1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417578] Physical page exists at PA:00000000001b2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417581] Physical page exists at PA:00000000001b3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417584] Physical page exists at PA:00000000001b4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417587] Physical page exists at PA:00000000001b5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417590] Physical page exists at PA:00000000001b6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417593] Physical page exists at PA:00000000001b7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417596] Physical page exists at PA:00000000001b8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417600] Physical page exists at PA:00000000001b9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417603] Physical page exists at PA:00000000001ba000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417606] Physical page exists at PA:00000000001bb000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417609] Physical page exists at PA:00000000001bc000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417612] Physical page exists at PA:00000000001bd000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417615] Physical page exists at PA:00000000001be000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417618] Physical page exists at PA:00000000001bf000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417622] Physical page exists at PA:00000000001c0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417626] Physical page exists at PA:00000000001c1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417629] Physical page exists at PA:00000000001c2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417633] Physical page exists at PA:00000000001c3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417636] Physical page exists at PA:00000000001c4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417639] Physical page exists at PA:00000000001c5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417643] Physical page exists at PA:00000000001c6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417646] Physical page exists at PA:00000000001c7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417649] Physical page exists at PA:00000000001c8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417653] Physical page exists at PA:00000000001c9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417656] Physical page exists at PA:00000000001ca000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417659] Physical page exists at PA:00000000001cb000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417662] Physical page exists at PA:00000000001cc000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417665] Physical page exists at PA:00000000001cd000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417668] Physical page exists at PA:00000000001ce000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417671] Physical page exists at PA:00000000001cf000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417675] Physical page exists at PA:00000000001d0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417678] Physical page exists at PA:00000000001d1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417681] Physical page exists at PA:00000000001d2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417684] Physical page exists at PA:00000000001d3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417687] Physical page exists at PA:00000000001d4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417690] Physical page exists at PA:00000000001d5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417694] Physical page exists at PA:00000000001d6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417697] Physical page exists at PA:00000000001d7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417700] Physical page exists at PA:00000000001d8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417704] Physical page exists at PA:00000000001d9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417707] Physical page exists at PA:00000000001da000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417711] Physical page exists at PA:00000000001db000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417715] Physical page exists at PA:00000000001dc000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417718] Physical page exists at PA:00000000001dd000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417722] Physical page exists at PA:00000000001de000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417726] Physical page exists at PA:00000000001df000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417729] Physical page exists at PA:00000000001e0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417733] Physical page exists at PA:00000000001e1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417736] Physical page exists at PA:00000000001e2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417740] Physical page exists at PA:00000000001e3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417744] Physical page exists at PA:00000000001e4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417747] Physical page exists at PA:00000000001e5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417750] Physical page exists at PA:00000000001e6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417753] Physical page exists at PA:00000000001e7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417756] Physical page exists at PA:00000000001e8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417760] Physical page exists at PA:00000000001e9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417763] Physical page exists at PA:00000000001ea000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417766] Physical page exists at PA:00000000001eb000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417769] Physical page exists at PA:00000000001ec000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417772] Physical page exists at PA:00000000001ed000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417775] Physical page exists at PA:00000000001ee000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417778] Physical page exists at PA:00000000001ef000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417781] Physical page exists at PA:00000000001f0000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417785] Physical page exists at PA:00000000001f1000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417788] Physical page exists at PA:00000000001f2000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417791] Physical page exists at PA:00000000001f3000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417794] Physical page exists at PA:00000000001f4000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417798] Physical page exists at PA:00000000001f5000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417801] Physical page exists at PA:00000000001f6000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417805] Physical page exists at PA:00000000001f7000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417809] Physical page exists at PA:00000000001f8000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417813] Physical page exists at PA:00000000001f9000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417816] Physical page exists at PA:00000000001fa000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417819] Physical page exists at PA:00000000001fb000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417822] Physical page exists at PA:00000000001fc000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417825] Physical page exists at PA:00000000001fd000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417828] Physical page exists at PA:00000000001fe000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417832] Physical page exists at PA:00000000001ff000 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417835] FOR CURRENT REGION,
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417835] 	Present in RAM (RSS): 511 (2044 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417835] 	Not Present in RAM  : 1 (4 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417835] 	Not Mapped          : 17179868672 (68719474688 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417835] 	Total Pages         : 17179869184 (68719476736 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.417835] 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418314] FOR CURRENT REGION,
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418314] 	Present in RAM (RSS): 4534 (18136 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418314] 	Not Present in RAM  : 3658 (14632 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418314] 	Not Mapped          : 8589926400 (34359705600 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418314] 	Total Pages         : 8589934592 (34359738368 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418314] 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418330] FOR CURRENT REGION,
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418330] 	Present in RAM (RSS): 0 (0 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418330] 	Not Present in RAM  : 0 (0 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418330] 	Not Mapped          : 268435456 (1073741824 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418330] 	Total Pages         : 268435456 (1073741824 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418330] 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418342] FOR CURRENT REGION,
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418342] 	Present in RAM (RSS): 0 (0 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418342] 	Not Present in RAM  : 0 (0 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418342] 	Not Mapped          : 4294967296 (17179869184 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418342] 	Total Pages         : 4294967296 (17179869184 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418342] 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418355] FOR CURRENT REGION,
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418355] 	Present in RAM (RSS): 0 (0 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418355] 	Not Present in RAM  : 0 (0 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418355] 	Not Mapped          : 134217728 (536870912 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418355] 	Total Pages         : 134217728 (536870912 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418355] 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418366] FOR CURRENT REGION,
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418366] 	Present in RAM (RSS): 0 (0 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418366] 	Not Present in RAM  : 0 (0 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418366] 	Not Mapped          : 131072 (524288 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418366] 	Total Pages         : 131072 (524288 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418366] 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418432] FOR CURRENT REGION,
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418432] 	Present in RAM (RSS): 650 (2600 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418432] 	Not Present in RAM  : 374 (1496 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418432] 	Not Mapped          : 389632 (1558528 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418432] 	Total Pages         : 390656 (1562624 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418432] 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418464] FOR CURRENT REGION,
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418464] 	Present in RAM (RSS): 1 (4 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418464] 	Not Present in RAM  : 511 (2044 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418464] 	Not Mapped          : 1536 (6144 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418464] 	Total Pages         : 2048 (8192 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418464] 
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418476] TOTAL KERNEL-VM,
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418476] 	RSS        : 5696 (22784 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418476] 	Mapped     : 10240 (40960 kB)
+Feb 17 11:45:55 prashanth-VirtualBox kernel: [ 1185.418476] 	Total Size : 32615431680 (121 TB) - Excluding hole regions
+Feb 17 11:45:57 prashanth-VirtualBox kernel: [ 1187.253436] Part-3: -----------------------REMOVED-------------------------

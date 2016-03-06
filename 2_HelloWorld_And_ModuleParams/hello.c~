@@ -1,0 +1,36 @@
+#include <linux/init.h>
+#include <linux/module.h>
+#include <linux/moduleparam.h>
+
+module_param(flag, flag, int, 0);
+/*
+	SECTION
+	Entry Module
+*/
+static int __init ktb_main_init(void)
+{
+	printk(KERN_ALERT"Kernel Module Inserted\n");	
+	
+	if(flag==0)
+		printk(KERN_ALERT"Flag is unset");
+	else
+		printk(KERN_ALERT"Flag is set");
+
+	return 0;
+}
+
+/*
+	SECTION
+	Exit Module
+*/
+static void __exit ktb_main_exit(void)
+{
+	printk(KERN_INFO"Kernel Module Removed\n");
+}
+
+/*
+	SECTION
+	Entry Point
+*/
+module_init(ktb_main_init)
+module_exit(ktb_main_exit)

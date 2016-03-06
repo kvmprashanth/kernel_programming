@@ -1,0 +1,47 @@
+Name:	top
+State:	S (sleeping)
+Tgid:	21569
+Ngid:	0
+Pid:	21569
+PPid:	19511
+TracerPid:	0
+Uid:	1000	1000	1000	1000
+Gid:	1000	1000	1000	1000
+FDSize:	256
+Groups:	4 24 27 30 46 108 124 1000 
+NStgid:	21569
+NSpid:	21569
+NSpgid:	21569
+NSsid:	19511
+VmPeak:	   29188 kB
+VmSize:	   29184 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    3236 kB
+VmRSS:	    3236 kB
+VmData:	     992 kB
+VmStk:	     136 kB
+VmExe:	      92 kB
+VmLib:	    2396 kB
+VmPTE:	      80 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+Threads:	1
+SigQ:	0/19815
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000000000
+SigCgt:	fffffffe7ffafeff
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Cpus_allowed:	3
+Cpus_allowed_list:	0-1
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	15
+nonvoluntary_ctxt_switches:	1582

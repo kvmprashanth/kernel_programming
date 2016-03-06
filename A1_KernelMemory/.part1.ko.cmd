@@ -1,0 +1,1 @@
+cmd_/home/prashanth/Modules/a1/part1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/prashanth/Modules/a1/part1.ko /home/prashanth/Modules/a1/part1.o /home/prashanth/Modules/a1/part1.mod.o
