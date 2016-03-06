@@ -4,6 +4,7 @@
 #include <linux/proc_fs.h>
 #include <linux/jiffies.h>
 #include <asm/uaccess.h>
+#include <linux/slab.h>
 
 #define MODULE_VERS "1.0"
 #define MODULE_NAME "procfs_example"
@@ -15,53 +16,43 @@ struct fb_data_t
 	char value[FOOBAR_LEN + 1];
 } foo_data, bar_data;
 
-static struct proc_dir_entry *example_dir, *foo_file, *bar_file; //*jiffies_file, *symlink;
-/*
-static int proc_read_jiffies(char *page, char **start, off_t off, int count, 
-	int *eof, void *data)
+static struct proc_dir_entry *example_dir, *foo_file, *bar_file; 
+
+int len,temp;
+char *msg;
+
+int proc_read_foobar(struct file *filp, char *buf, size_t count, loff_t *offp)
 {
-	int len;
-	len = sprintf(page, "jiffies = %ld\n",jiffies);
-	return len;
-}
-*/
-static int proc_read_foobar(char *page, char **start, off_t off, int count, 
-	int *eof, void *data)
-{
-	int len;
-	struct fb_data_t *fb_data = (struct fb_data_t *)data;
+	if(count>temp)
+		count=temp;
 	
-	len = sprintf(page, "%s = ’%s’\n", fb_data->name, fb_data->value);
-	return len;
+	temp=temp-count;
+	copy_to_user(buf, msg, count);
+	
+	if(count==0)
+		temp=len;
+	   
+	return count;
 }
 
-static int proc_write_foobar(struct file *file, const char *buffer, 
-	unsigned long count, void *data)
+int proc_write_foobar(struct file *filp, const char *buf, size_t count, loff_t *offp)
 {
-	int len;
-	struct fb_data_t *fb_data = (struct fb_data_t *)data;
-	
-	if(count > FOOBAR_LEN)
-		len = FOOBAR_LEN;
-	else
-		len = count;
-	if(copy_from_user(fb_data->value, buffer, len))
-		return -EFAULT;
-	
-	fb_data->value[len] = ’\0’;
-	return len;
-}
+	copy_from_user(msg, buf, count);
+	printk(KERN_INFO "In write");
+	len=count;
+	temp=len;
+	return count;
+} 
 
 static const struct file_operations foo_fops = {
 	.owner = THIS_MODULE,
-	.open  = open_callback,
-	.read  = read_callback,
+	.read  = (void *)proc_read_foobar,
+	.write  = (void *)proc_write_foobar,
 };
 
 static const struct file_operations bar_fops = {
 	.owner = THIS_MODULE,
-	.open  = open_callback,
-	.read  = read_callback,
+	.read  = (void *)proc_read_foobar,
 };
 
 static int __init init_procfs_example(void)
@@ -75,7 +66,7 @@ static int __init init_procfs_example(void)
 		rv = -ENOMEM;
 		goto out;
 	}
-	example_dir->owner = THIS_MODULE;
+	//example_dir->owner = THIS_MODULE;
 
 	/*create jiffies using convenience function
 	jiffies_file = proc_create_read_entry("jiffies", 0444, example_dir,
@@ -98,7 +89,7 @@ static int __init init_procfs_example(void)
 	
 	strcpy(foo_data.name, "foo");
 	strcpy(foo_data.value, "foo");
-	foo_file->data = &foo_data;
+	msg = kmalloc(GFP_KERNEL, 100*sizeof(char));
 
 	bar_file = proc_create("bar", 0644, example_dir, &bar_fops);
 	if(bar_file == NULL) {
@@ -108,7 +99,6 @@ static int __init init_procfs_example(void)
 	
 	strcpy(bar_data.name, "bar");
 	strcpy(bar_data.value, "bar");
-	bar_file->data = &bar_data;
 	
 	/*
 	//create symlink
